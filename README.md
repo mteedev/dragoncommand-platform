@@ -254,7 +254,7 @@ For direct inquiries: open a [Discussion](https://github.com/mteedev/dragoncomma
 
 ## About
 
-DragonCommand is being built by **Mark Teegardin** (Gundahar Bravin in-world), Events Manager, Web Admin, and Developer at [NeverWorld Grid](https://neverworldgrid.com) — with 15+ years of virtual world development experience.
+DragonCommand is being built by **mteedev** (Gundahar Bravin in-world), Events Manager, Web Admin, and Developer at [NeverWorld Grid](https://neverworldgrid.com) — with 15+ years of virtual world development experience.
 
 *Built by a grid operator, for grid operators.*
 
