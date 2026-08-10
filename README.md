@@ -176,10 +176,10 @@ DragonCommand ships with a powerful core and an extensible module system. Grid o
 | Module | Description | Type |
 |--------|-------------|------|
 | **Marketplace** | Vendor dashboard, storefronts, in-world delivery | Paid Add-On |
-| **Events** | Public events calendar, GateCrashers integration | Paid Add-On |
-| **Land Sales** | Parcel listing, purchase flow, rental management | Paid Add-On |
-| **Partner System** | Affiliate/referral tracking for grid growth | Paid Add-On |
-| **Economy Dashboard** | Transaction history, balance management, reports | Paid Add-On |
+| **Events** | Public events calendar, GateCrashers integration | Add-On |
+| **Land Sales** | Parcel listing, purchase flow, rental management | Add-On |
+| **Partner System** | Affiliate/referral tracking for grid growth | Add-On |
+| **Economy Dashboard** | Transaction history, balance management, reports | Add-On |
 
 ---
 
