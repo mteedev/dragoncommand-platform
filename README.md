@@ -38,8 +38,8 @@ No more duct-taped plugins. No more WordPress security patches at 2am. No more s
 Every serious OpenSimulator grid today cobbles together some combination of:
 
 - **WordPress + w4os** for resident registration and profiles
-- **ORBIT or similar** for admin management
-- **WooCommerce** for a marketplace
+- **ORBIT or similar** for Region management
+- **Do We Have?** for a marketplace
 - **Custom PHP scripts** for everything else
 - **Multiple databases** that don't talk to each other cleanly
 - **Zero real-time anything**
