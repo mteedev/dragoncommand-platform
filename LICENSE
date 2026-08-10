@@ -1,0 +1,97 @@
+DragonCommand Proprietary License
+Copyright (c) 2026 Mark Teegardin. All Rights Reserved.
+
+IMPORTANT — READ CAREFULLY BEFORE USING, COPYING, OR DISTRIBUTING THIS SOFTWARE.
+
+This software and associated documentation files (the "Software") are the
+proprietary and confidential property of Mark Teegardin ("Author"). The
+Software is protected by copyright law and international treaty provisions.
+
+---
+
+GRANT OF RIGHTS
+
+No rights are granted by default. Specifically, without a separate written
+license agreement executed with the Author, you may NOT:
+
+  1. Use the Software for any commercial or production purpose.
+  2. Copy, reproduce, or duplicate the Software or any portion thereof.
+  3. Modify, adapt, translate, or create derivative works based on the Software.
+  4. Distribute, sublicense, sell, rent, lease, or otherwise transfer the
+     Software or any rights therein to any third party.
+  5. Reverse engineer, disassemble, decompile, or otherwise attempt to derive
+     the source code of the Software (except to the extent that applicable
+     law expressly prohibits such restriction).
+  6. Remove or alter any proprietary notices, labels, or marks on the Software.
+
+---
+
+PERMITTED USES
+
+You MAY:
+
+  1. View this repository and its public contents for evaluation purposes.
+  2. Star, watch, and follow this repository on GitHub.
+  3. Reference this repository in discussions, articles, or social media
+     for informational purposes, with attribution.
+  4. Open issues or discussions in this repository as described in
+     CONTRIBUTING.md.
+
+---
+
+EARLY ACCESS PROGRAM
+
+Certain individuals or organizations may receive a separate written Early
+Access License Agreement permitting limited use of the Software for testing
+and evaluation under specific terms. Such agreements are granted solely at
+the Author's discretion and do not constitute a general license to the public.
+
+---
+
+COMMERCIAL LICENSING
+
+Commercial licensing options, including self-hosted operator licenses and
+SaaS subscription agreements, will be made available. For inquiries, open
+a Discussion in this repository.
+
+---
+
+WATERMARK REQUIREMENT
+
+Any deployment of DragonCommand — under any license tier — must retain
+the "Powered by DragonCommand" watermark visible in the user interface.
+Removal, concealment, or modification of this watermark is a material
+breach of any license agreement and is expressly prohibited.
+
+---
+
+DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws
+of the State of North Carolina, United States of America, without regard to
+its conflict of law provisions.
+
+---
+
+CONTACT
+
+For licensing inquiries:
+  Mark Teegardin
+  GitHub: https://github.com/mteedev
+  Repository: https://github.com/mteedev/dragoncommand-platform
+
+---
+
+DragonCommand — Command Your Grid. Empower Your Community.
+༺🐲༻ One Platform. Total Control.
