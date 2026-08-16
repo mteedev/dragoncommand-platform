@@ -213,6 +213,8 @@ DragonCommand is currently in active development, running live on the **MS Axiom
 - [x] Live Robust DB wiring (profile, friends, inventory, regions)
 - [x] Avatar creation flow (Stage 2 → Robust DB write)
 - [x] Email verification (Postfix + DKIM)
+- [x] In-world Offline Messages sent to User's Dashboard
+- [x] DragonCommand Messaging System - Admin Panel to send System messages to Users (see Screenshots in Discussions).
 
 ### Phase 3 — The Fledgling 📋 (Planned)
 - [ ] Full resident portal (inventory tree, region OAR/restart, friends)
