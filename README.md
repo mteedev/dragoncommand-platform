@@ -143,7 +143,7 @@ Robust Server (MySQL/MariaDB)
     └── Economy tables
 ```
 
-**Multi-tenant from day one.** Every table carries a `grid_id`. One DragonCommand installation can serve multiple grids — the foundation for the future SaaS tier.
+**Multi-tenant from day one.** Every table carries a `grid_id`. One DragonCommand installation can serve multiple grids — the foundation for the future SaaS tier. (Commercial Edition)
 
 ---
 
@@ -208,11 +208,11 @@ DragonCommand is currently in active development, running live on the **MS Axiom
 - [x] Systemd services + SSL
 
 ### Phase 2 — The Hatchling 🔄 (In Progress)
-- [ ] Tailscale mesh (VPS ↔ Proxmox)
-- [ ] Standalone → Grid Hypergrid conversion (MS Axiom)
-- [ ] Live Robust DB wiring (profile, friends, inventory, regions)
+- [x] Tailscale mesh (VPS ↔ Proxmox)
+- [x] Standalone → Grid Hypergrid conversion (MS Axiom)
+- [x] Live Robust DB wiring (profile, friends, inventory, regions)
 - [ ] Avatar creation flow (Stage 2 → Robust DB write)
-- [ ] Email verification (Postfix + DKIM)
+- [x] Email verification (Postfix + DKIM)
 
 ### Phase 3 — The Fledgling 📋 (Planned)
 - [ ] Full resident portal (inventory tree, region OAR/restart, friends)
@@ -224,7 +224,7 @@ DragonCommand is currently in active development, running live on the **MS Axiom
 ### Phase 4 — The Drake 🗓️ (Future)
 - [ ] Marketplace Add-On module
 - [ ] Events Add-On module
-- [ ] Multi-tenant SaaS tier
+- [ ] Multi-tenant SaaS tier for Commercial Operators
 - [ ] White-label branding system
 - [ ] LibreMetaverse .NET sidecar (gRPC bridge)
 
@@ -241,6 +241,22 @@ DragonCommand is being built with the real-world OpenSimulator operator in mind:
 - **White-label ready** — every grid gets its own branding; the "Powered by DragonCommand" watermark stays
 
 ---
+
+## Licensing
+
+DragonCommand is currently in active development 
+and is source-available but not yet open source.
+
+**Community Edition** (GPL v3) and **Commercial Edition** 
+licensing will be announced at public launch.
+
+In the meantime, the code is available for review 
+and evaluation purposes only.
+
+Interested in beta testing? Contact: 
+gundaharbravin@gmail.com
+
+...
 
 ## Early Access
 
