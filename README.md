@@ -83,6 +83,9 @@ DragonCommand replaces the entire stack with a single, cohesive platform:
 │         Real-time. Secure. No polling hacks.              │
 └────────────────────────────────────────────────────────────┘
 ```
+## 📋 Complete Feature List
+
+[View the complete DragonCommand Feature List (PDF)](https://github.com/mteedev/dragoncommand-platform/blob/main/DragonCommand%20Feature%20List%20-%2008-16-2026.pdf)
 
 ---
 
