@@ -279,6 +279,8 @@ DragonCommand is being built by **mteedev** (Gundahar Bravin in-world), Events M
 
 *Built by a grid operator, for grid operators.*
 
+Check out our Discord Server: https://discord.gg/KZs5wkHVy6
+
 ---
 
 <div align="center">
